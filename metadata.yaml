@@ -1,0 +1,37 @@
+_repo: English-Traits_39862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: This collection of essays, published in 1856, grew out of Emerson's travels
+  in England, undertaken shortly after he resigned his ministry following a loss of
+  faith. An insightful survey of English history and manners, English Traits also
+  features accounts of Emerson's meetings with such luminaries as Wordsworth, Coleridge,
+  and Carlyle.
+gutenberg_issued: '2012-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, English'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Civilization'
+- !lcsh 'England -- Description and travel'
+title: English Traits
+url: http://www.gutenberg.org/ebooks/39862
